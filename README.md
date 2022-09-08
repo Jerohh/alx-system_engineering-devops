@@ -4,3 +4,4 @@
 3. The long format
 4. Hidden file
 5. I love numbers
+6. Welcome
