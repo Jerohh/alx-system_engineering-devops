@@ -10,3 +10,4 @@ Write a script that writes into the file ls_cwd_content.
 a script that duplicates the last line of the file iacta.
 a script that deletes all the regular files.
 a script that counts the number of directories.
+Create a script that displays the 10 newest files in the current directory.
