@@ -1,0 +1,2 @@
+#!/bin/baash
+ech $PATH | tr ":" "\n" | wc -l
