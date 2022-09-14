@@ -4,4 +4,5 @@ Add /action to the PATH. /action should be the last directory the shell looks in
 a script that counts the number of directories in the PATH.
 a script that lists environment variables.
 A script that lists all local variables and environment variables, and function.
-a script that creates a new global variable
+a script that creates a new global variable.
+A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
